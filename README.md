@@ -1,8 +1,8 @@
-# Radar-AVPlayer-4K-HDR-zapping-times
+# Radar-AVPlayer-4K-HDR-zapping-times - 37271964
 
 Project created to report bug on switching streams on the AVPlayerViewController when changing the playerItem with match content setting in the tvOS >11.2.
 
-· Open radar: https://openradar.appspot.com/...
+· Open radar: https://openradar.appspot.com/37271964
 
 # Description
 When having the 'Match Dynamic Range' setting is activated switching the playerItem (zapping) will have a delay between 2 and 5 seconds.
